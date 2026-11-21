@@ -23,14 +23,7 @@
 
 ```javascript
 const lina = {
-  role: "Software Engineering Graduate & Full-Stack Developer",
+  role: "Software Engineering Graduate | Full-Stack Developer",
   education: "B.Sc. in Software Engineering - University of Hail",
-  experience: "Software Engineering Intern @ Ministry of Human Resources & Social Development",
-  focusAreas: [
-    "Full-Stack Web Development",
-    "System Architecture & Database Design",
-    "Web Accessibility (WCAG 2.1 & ARIA)",
-    "Software Testing & Security (RBAC, bcrypt)"
-  ],
-  languages: ["Arabic (Native)", "English (Intermediate)"]
+  location: "Riyadh, Saudi Arabia"
 };
